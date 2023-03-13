@@ -1,0 +1,19 @@
+python@davinci.icm.uu.se
+ScientificReflectionIsGood3
+Your identification has been saved in /home/integra/.ssh/id_rsa
+Your public key has been saved in /home/integra/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:YwdJrcyzUJOjeZTypzizAyPo8OgpHyXngWU5FhDPc2I integra@phy-eler
+The key's randomart image is:
++---[RSA 3072]----+
+|  oo.   .+       |
+|   o o..B..      |
+|    E .Xo+       |
+|   * =+ B..      |
+| .o +  +S=.      |
+|o .=o.+.oo       |
+|oo...o +         |
+|o.o.  o          |
+|o+.    .         |
++----[SHA256]-----+
+paraphrase: Pichu
